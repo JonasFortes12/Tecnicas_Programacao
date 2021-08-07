@@ -1,0 +1,7 @@
+O fatorial de 2 eh 2
+O fatorial de 5 eh 120
+O fatorial de 9 eh 362880
+O fatorial de 10 eh 3628800
+O fatorial de 1 eh 1
+O fatorial de 1 eh 1
+O fatorial de 2 eh 2
